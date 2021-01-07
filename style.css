@@ -1,6 +1,7 @@
 h1{
     font-size: 80px;
     font-family: 'Anton', sans-serif;
+    color: darkblue;
 
 }
 .orange-highlight{
@@ -13,5 +14,17 @@ h1{
     padding-left: 5%;
 }
 .half-width img{
-    width: 100%;
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: green;
+    padding: 10px 30px 10px 30px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+
+.header_1{
+    text-align: center;
 }
